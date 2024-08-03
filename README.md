@@ -13,13 +13,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/codingmonk6147](https://github.com/codingmonk6147)
 
-- 💬 Ask me about **MEAN & MERN**
-
 - 📫 How to reach me **bibhutibaishya3@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bibhuti-baishya/](https://www.linkedin.com/in/bibhuti-baishya/)
 
-- ⚡ Fun fact **Literally said, "I am the documentation"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
